@@ -1,13 +1,13 @@
-#Overlord#
-##[19. 12. 2023 - 30. 03. 2024]##
-###<K.Maruyama> (EN)###
+# Overlord
+## [19. 12. 2023 - 30. 03. 2024]
+### <K.Maruyama> (EN)
 
 	Light novel series
 	Volumes 16+ 
 
-#Necronomicon#
-##[22. 04. 2024 - dd. mm. yyyy]##
-###<H.P.Lovecraft> (EN)###
+# Necronomicon
+## [22. 04. 2024 - dd. mm. yyyy]
+### <H.P.Lovecraft> (EN)
 
 	Comermorative Edition of Best Weird Tales
 	ISBN 978-0-575-08157-4		
