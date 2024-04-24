@@ -28,7 +28,7 @@ land of Mnar = vast land with river Ai and countries Thraa, Ilarnek, Kadatheron 
 Sarnath = very rich city that was swallen whole underground (destroyed by light in mist/lake)
 Ulthar = town where killing cat is horrible crime
 primordial Reptiles (indescriptable) = beings whose where worshiped by acient people of Nameless city
-heterogeneous 
+heterogeneous beings = species created out of multiple other species 
 family of Martense = one Blue, one Brown eye closed off from society, after death Jan they became fiends
 Tempest Mountains = covered by primeval forest, loaction of Martense's Mansion
 ```
@@ -43,7 +43,7 @@ Major Sir Eric Moreland Clapham-Lee = friend of H. West, reanimated as torso, ha
 Erich Zann = violist played horifing music keeping creaures of darkness away (wrote in French)
 ```
 ### Interesting Quotes:
-mad arab Abdul Alhazred:
+Abdul Alhazred (mad arab):
 ```
 "That is not dead which can eternal lie, 
 And with strange aeons even death may die."
