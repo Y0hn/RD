@@ -22,3 +22,5 @@
 		Nameless city of primordial Lizardmen which were worshiped like gods, guarded by Sand-elemental
 			"That is not dead which can eternal lie, And with strange aeons even death may die."
 											- mad arab Abdul Alhazred
+		Herbert West - Reanimator using some sullution to revive dead (killed by own headless scientist)
+			bodies had to be fresh othervice they would turn into mindless monsters
