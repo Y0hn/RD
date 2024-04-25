@@ -58,3 +58,11 @@ Abdul Alhazred [mad Arab]:
 "That is not dead which can eternal lie, 
 And with strange aeons even death may die."
 ```
+a phrase from one of Lord Dunsany’s tales:
+```
+‘The unreverberate blackness of the abyss.’
+```
+Thomas Moore:
+```
+‘A reservoir of darkness, black As witches’ cauldrons are, when fill’d With moon-drugs in th’ eclipse distill’d . Leaning to look if foot might pass Down thro’ that chasm, l saw, beneath , As far as vision could explore , The jetty sides as smooth as glass , Looking as if just varnish’d o’er With that dark pitch the Seat of Death Throws out upon its slimy shore.’
+```
