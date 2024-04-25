@@ -3,6 +3,7 @@
 
 ### [19. 12. 2023 - 30. 03. 2024]
 </div>
+
 ### Translators: Emily Balistrieri, Andrew Cunningham (EN)
 - 16 volumes
 <div align="right">
