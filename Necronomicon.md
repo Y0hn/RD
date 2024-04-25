@@ -22,9 +22,9 @@ H. West experimented with his sullution on reanimation of humans (also joind Gre
 Terriffing music of E. Zann in lost city Rue d'Auseil (probably) kept darkness away (not anymore)
 Hellish Fiends of Martense arivals accompanied with lightning in thunder (Y teeth, fur, claws)
 Grave Unboxing of 2 friends gone wrong, they uncovered cursed Jade Green Amoled (hounted by The Hound and Giant bats)
-
+It was The Rats, they're in walls, they caused everything (Rats represented spirits of dead?)
 ```
-### Interesting Terms/Places/Races
+## Interesting Terms/Places/Races/Familes
 ```
 Night Gaunts = faceless winged demons
 beings of Ib = primitive space-fishmen
@@ -37,10 +37,10 @@ family of Martense = one Blue, one Brown eye closed off from society, after deat
 Tempest Mountains = covered by primeval forest, loaction of Martense's Mansion
 Necronomicon = book of Mad Arab
 Jade Green Amoled = hinted of in Necronomicon as soul-symbol of corpse-eating cult of Leng, in Central Asia
-Exham Priory = castle build on temple and priory
-famity of de la Poer = "cursed god"
+Exham Priory = castle build on temple and priory upon cavern containing massive amounts of acient human bones
+famity of de la Poer = called as "cursed god", lived in Exham Priory, (probably) wiped by Walter de la Poer
 ```
-### Interesting Charakters
+## Interesting Charakters
 ```
 Jan Martense = after experiencing world became autcast, killed by (probably) his own family 
 Taran-Ish = high-priest of Sarnath, who foretold DOOM of Sarnath and died of fear
@@ -50,8 +50,9 @@ Herbert West [Reanimator] = using some sullution to revive dead (killed by his o
 Major Sir Eric Moreland Clapham-Lee = friend of H. West, reanimated as torso, has Vax head, created an Undead legion
 Erich Zann = violist played horifing music keeping creaures of darkness away (wrote in French)
 St John = satanist, grave robber, collector of supernatural things, stole green jade amouled (hunted by huge Hound)
+Nyarlathotep = mad faceless god
 ```
-### Interesting Quotes:
+## Interesting Quotes:
 Abdul Alhazred [mad Arab]:
 ```
 "That is not dead which can eternal lie, 
