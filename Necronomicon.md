@@ -4,7 +4,7 @@
 ### H.P.Lovecraft (EN)  
 Comermorative Edition of Best Weird Tales
 
-<img src="https://github.com/Y0hn/reading_diary/assets/101512527/3da7012d-6be1-4757-9f2e-9731004b408a" width="500" height="800"/>
+<img src="https://github.com/Y0hn/reading_diary/assets/101512527/3da7012d-6be1-4757-9f2e-9731004b408a" width="500" height="700"/>
 </div>
 
 ```
