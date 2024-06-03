@@ -23,6 +23,7 @@ Terriffing music of E. Zann in lost city Rue d'Auseil (probably) kept darkness a
 Hellish Fiends of Martense arivals accompanied with lightning in thunder (Y teeth, fur, claws)
 Grave Unboxing of 2 friends gone wrong, they uncovered cursed Jade Green Amoled (hounted by The Hound and Giant bats)
 It was The Rats, they're in walls, they caused everything (Rats represented spirits of dead?)
+Magician's tour in Gize goes wrong, he is kidnaped beaten and trown into depths of mysteriuos primordial catacombs
 ```
 ## Interesting Terms/Places/Races/Familes
 ```
@@ -30,7 +31,7 @@ Night Gaunts = faceless winged demons
 beings of Ib = primitive space-fishmen
 land of Mnar = vast land with river Ai and countries Thraa, Ilarnek, Kadatheron and city Sarnath
 Sarnath = very rich city that was swallen whole underground (destroyed by light in mist/lake)
-Ulthar = town where killing cat is horrible crime
+Ulthar = town where killing (man eating) cat is horrible crime
 primordial Reptiles (indescriptable) = beings whose where worshiped by acient people of Nameless city
 heterogeneous beings = species created out of multiple other species 
 family of Martense = one Blue, one Brown eye closed off from society, after death Jan they became fiends
@@ -39,6 +40,8 @@ Necronomicon = book of Mad Arab
 Jade Green Amoled = hinted of in Necronomicon as soul-symbol of corpse-eating cult of Leng, in Central Asia
 Exham Priory = castle build on temple and priory upon cavern containing massive amounts of acient human bones
 famity of de la Poer = called as "cursed god", lived in Exham Priory, (probably) wiped by Walter de la Poer
+Memphis = extinct capital near pyramids
+croco-people-mumies = servants of Shinx
 ```
 ## Interesting Charakters
 ```
@@ -51,6 +54,11 @@ Major Sir Eric Moreland Clapham-Lee = friend of H. West, reanimated as torso, ha
 Erich Zann = violist played horifing music keeping creaures of darkness away (wrote in French)
 St John = satanist, grave robber, collector of supernatural things, stole green jade amouled (hunted by huge Hound)
 Nyarlathotep = mad faceless god
+Abdul Reis el Drogman = faraon's heir/faraon himself (Khephren) - fighted under Moon
+Khephren = king of Egypt, 
+Nitocris = Egyptian queen, who drowned all her enemies in Nile
+Oris, Iris Horus, Anubis = newer Gods of Dead
+The Great Shinx = the original god of Dead, rezides in Depths of deep underground Temple of Shinx
 ```
 ## Interesting Quotes:
 Abdul Alhazred [mad Arab]:
@@ -74,4 +82,11 @@ The jetty sides as smooth as glass,
 Looking as if just varnish’d o’er 
 With that dark pitch the Seat of Death 
 Throws out upon its slimy shore.’
+```
+Thomas Moore:
+(about Nitocris by Memphian boatmen)
+```
+'The subterranean nymh tath dewls
+'Mind sunless gems and glories hid-
+The lady of the Pyramid!'
 ```
