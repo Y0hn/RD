@@ -24,6 +24,8 @@ Hellish Fiends of Martense arivals accompanied with lightning in thunder (Y teet
 Grave Unboxing of 2 friends gone wrong, they uncovered cursed Jade Green Amoled (hounted by The Hound and Giant bats)
 It was The Rats, they're in walls, they caused everything (Rats represented spirits of dead?)
 Magician's tour in Gize goes wrong, he is kidnaped beaten and trown into depths of mysteriuos primordial catacombs
+Unnamable slimy wraith resigning in old attic
+sloppy Undertaker cutted corpse's heels so his heels were scratched by nonliving
 ```
 ## Interesting Terms/Places/Races/Familes
 ```
