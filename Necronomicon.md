@@ -26,6 +26,7 @@ It was The Rats, they're in walls, they caused everything (Rats represented spir
 Magician's tour in Gize goes wrong, he is kidnaped beaten and trown into depths of mysteriuos primordial catacombs
 Unnamable slimy wraith resigning in old attic
 sloppy Undertaker cutted corpse's heels so his heels were scratched by nonliving
+Detective whants to find out more about secret of Sect composing of imigrants
 ```
 ## Interesting Terms/Places/Races/Familes
 ```
