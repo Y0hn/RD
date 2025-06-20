@@ -10,7 +10,7 @@ Comermorative Edition of Best Weird Tales
 ```
 ISBN 978-0-575-08157-4
 ```
-## Sories about:
+## Individual Sories:
 ```
 Demons without face flying throu the night 
 Terrifing Fishman worshiping acient God in Depths of Dead, Black & Muddy part of ocean
