@@ -3,6 +3,10 @@
 # Necronomicon 
 ### H.P.Lovecraft (EN)  
 Comermorative Edition of Best Weird Tales
+<div align="right">
+
+My Rating: ?/10
+</div>
 
 <img src="https://github.com/Y0hn/reading_diary/assets/101512527/3da7012d-6be1-4757-9f2e-9731004b408a" width="500" height="700"/>
 </div>
@@ -11,37 +15,37 @@ Comermorative Edition of Best Weird Tales
 ISBN 978-0-575-08157-4
 ```
 ## Individual Sories:
-- Night-Gaunts 
+- Night-Gaunts [6/10]
     - Demons without face flying throu the night 
-- Dagon 
+- Dagon [3/10]
     - Terrifing Fishman worshiping acient God in Depths of Dead, Black & Muddy part of ocean
-- The Statement of Randolph Carter 
+- The Statement of Randolph Carter [5/10] 
     - Grave Unboxing of 2 friends gone wrong (they probably uncovert leginons of monsters)
-- The Doom That Came to Sarnath 
+- The Doom That Came to Sarnath [7/10]
     - Beings of Ib were purged by people of Sarnath, after 1000 years of prosperity Sarnath was desroyed
-- The Cats of Ulthar 
+- The Cats of Ulthar [7/10]
     - In Ulthar old couple who was killing cats was eaten by cats in some ritual
-- The Nameless City 
+- The Nameless City [7/10]
     - Nameless city of primordial Lizardmen, guarded by Sand-elemental, apeared in visions of Mad Arab
-- Herbert West – Reanimator 
+- Herbert West – Reanimator [8/10]
     - H. West experimented with his sullution on reanimation of humans (also joind Great War)
-- The Music of Erich Zann 
+- The Music of Erich Zann [7/10]
     - Terriffing music of E. Zann in lost city Rue d'Auseil (probably) kept darkness away (not anymore)
-- The Lurking Fear 
+- The Lurking Fear [8/10]
     - Hellish Fiends of Martense arivals accompanied with lightning in thunder (Y teeth, fur, claws)
-- The Hound
+- The Hound [6/10] 
     - Grave Unboxing of 2 friends gone wrong, they uncovered cursed Jade Green Amoled (hounted by The Hound and Giant bats)
-- The Rats in the Walls 
+- The Rats in the Walls [8/10] 
     - It was The Rats, they're in walls, they caused everything (Rats represented spirits of dead?)
-- Under the Pyramids
+- Under the Pyramids [6/10]
     - Magician's tour in Gize goes wrong, he is kidnaped beaten and trown into depths of mysteriuos primordial catacombs, where he seen unspeakable rites
-- The Unnamable
+- The Unnamable [4/10]
     - Unnamable slimy wraith resigning in old attic
-- In the Vault
+- In the Vault [7/10]
     - sloppy Undertaker cutted corpse's heels so his heels were scratched by nonliving
-- The Outsider
+- The Outsider [8/10]
     - Man escaped from undergodund cave-castle just to see his ghoulish self in mirror 
-- The Horror at Red Hook
+- The Horror at Red Hook [6/10]
     - Detective investigates Sect composing mostly of imigrants and acidentaly sees Demonic Ritual to revive cults leader in catacombs with tall pilars
 - The Colour Out of Space
     - CRAZY
