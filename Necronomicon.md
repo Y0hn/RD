@@ -1,79 +1,128 @@
 <div align="center">
 
-# Necronomicon 
-### H.P.Lovecraft (EN)  
-Comermorative Edition of Best Weird Tales
+<h1>Necronomicon</h1> 
+<h3>H.P.Lovecraft (US)</h3>  
+<P>Comermorative Edition of Best Weird Tales</p>
+<img src="https://github.com/Y0hn/reading_diary/assets/101512527/3da7012d-6be1-4757-9f2e-9731004b408a" width=40%>
 <div align="right">
-
-My Rating: ?/10
+<h4>My Rating: [?/10]<h4>
 </div>
-
-<img src="https://github.com/Y0hn/reading_diary/assets/101512527/3da7012d-6be1-4757-9f2e-9731004b408a" width="500" height="700"/>
+<pre>ISBN 978-0-575-08157-4</pre>
 </div>
+<hr>
 
-```
-ISBN 978-0-575-08157-4
-```
-## Individual Sories:
-- Night-Gaunts [6/10]
-    - Demons without face flying throu the night 
-- Dagon [3/10]
-    - Terrifing Fishman worshiping acient God in Depths of Dead, Black & Muddy part of ocean
-- The Statement of Randolph Carter [5/10] 
-    - Grave Unboxing of 2 friends gone wrong (they probably uncovert leginons of monsters)
-- The Doom That Came to Sarnath [7/10]
-    - Beings of Ib were purged by people of Sarnath, after 1000 years of prosperity Sarnath was desroyed
-- The Cats of Ulthar [7/10]
-    - In Ulthar old couple who was killing cats was eaten by cats in some ritual
-- The Nameless City [7/10]
-    - Nameless city of primordial Lizardmen, guarded by Sand-elemental, apeared in visions of Mad Arab
-- Herbert West – Reanimator [8/10]
-    - H. West experimented with his sullution on reanimation of humans (also joind Great War)
-- The Music of Erich Zann [7/10]
-    - Terriffing music of E. Zann in lost city Rue d'Auseil (probably) kept darkness away (not anymore)
-- The Lurking Fear [8/10]
-    - Hellish Fiends of Martense arivals accompanied with lightning in thunder (Y teeth, fur, claws)
-- The Hound [6/10] 
-    - Grave Unboxing of 2 friends gone wrong, they uncovered cursed Jade Green Amoled (hounted by The Hound and Giant bats)
-- The Rats in the Walls [8/10] 
-    - It was The Rats, they're in walls, they caused everything (Rats represented spirits of dead?)
-- Under the Pyramids [6/10]
-    - Magician's tour in Gize goes wrong, he is kidnaped beaten and trown into depths of mysteriuos primordial catacombs, where he seen unspeakable rites
-- The Unnamable [4/10]
-    - Unnamable slimy wraith resigning in old attic
-- In the Vault [7/10]
-    - sloppy Undertaker cutted corpse's heels so his heels were scratched by nonliving
-- The Outsider [8/10]
-    - Man escaped from undergodund cave-castle just to see his ghoulish self in mirror 
-- The Horror at Red Hook [6/10]
-    - Detective investigates Sect composing mostly of imigrants and acidentaly sees Demonic Ritual to revive cults leader in catacombs with tall pilars
-- The Colour Out of Space
-    - CRAZY
+<h2>Individual Sories</h2>
+<h3>Night-Gaunts</h3>
+<li>    Demons without face flying throu the night</li>
+<p align="right"><b>[</b><i>6<b>/</b>10</i><b>]</b></p>
+<h3>Dagon</h3>
+<li>    Terrifing Fishman worshiping acient God in Depths of Dead, Black & Muddy part of ocean </li>
+<p align="right"><b>[</b><i>3<b>/</b>10</i><b>]</b></p>
+<h3>The Statement of Randolph Cahrter</h3>
+<li>    Grave Unboxing of 2 friends gone wrong (they probably uncovert leginons of monsters) </li>
+<p align="right"><b>[</b><i>5<b>/</b>10</i><b>]</b></p>
+<h3>The Doom That Came to Sarnath</h3>
+<li>    Beings of Ib were purged by people of Sarnath, after 1000 years of prosperity Sarnath was desroyed </li>
+<p align="right"><b>[</b><i>7<b>/</b>10</i><b>]</b></p>
+<h3>The Cats of Ulthar</h3>
+<li>    In Ulthar old couple who was killing cats was eaten by cats in some ritual </li>
+<p align="right"><b>[</b><i>5<b>/</b>10</i><b>]</b></p>
+<h3>The Nameless City</h3>
+<li>    Nameless city of primordial Lizardmen, guarded by Sand-elemental, apeared in visions of Mad Arab </li>
+<p align="right"><b>[</b><i>7<b>/</b>10</i><b>]</b></p>
+<h3>Herbert West – Reanimator</h3>
+<li>    H. West experimented with his sullution on reanimation of humans (also joind Great War) </li>
+<p align="right"><b>[</b><i>8<b>/</b>10</i><b>]</b></p>
+<h3>The Music of Erich Zann</h3>
+<li>    Terriffing music of E. Zann in lost city Rue d'Auseil (probably) kept darkness away (not anymore) </li>
+<p align="right"><b>[</b><i>7<b>/</b>10</i><b>]</b></p>
+<h3>The Lurking Fear</h3>>
+<li>    Hellish Fiends of Martense arivals accompanied with lightning in thunder (Y teeth, fur, claws) </li>
+<p align="right"><b>[</b><i>8<b>/</b>10</i><b>]</b></p>
+<h3>The Hound</h3>
+<li>    Grave Unboxing of 2 friends gone wrong, they uncovered cursed Jade Green Amoled (hounted by The Hound and Giant bats) </li>
+<p align="right"><b>[</b><i>6<b>/</b>10</i><b>]</b></p>
+<h3>The Rats in the Walls</h3>
+<li>    It was The Rats, they're in walls, they caused everything (Rats represented spirits of dead?) </li>
+<p align="right"><b>[</b><i>8<b>/</b>10</i><b>]</b></p>
+<h3>Under the Pyramids</h3>
+<li>    Magician's tour in Gize goes wrong, he is kidnaped beaten and trown into depths of mysteriuos primordial catacombs, where he seen unspeakable rites </li>
+<p align="right"><b>[</b><i>6<b>/</b>10</i><b>]</b></p>
+<h3>The Unnamable</h3>
+<li>    Unnamable slimy wraith resigning in old attic </li>
+<p align="right"><b>[</b><i>4<b>/</b>10</i><b>]</b></p>
+<h3>In the Vault</h3>
+<li>    sloppy Undertaker cutted corpse's heels so his heels were scratched by nonliving </li>
+<p align="right"><b>[</b><i>7<b>/</b>10</i><b>]</b></p>
+<h3>The Outsider</h3>
+<li>    Man escaped from undergodund cave-castle just to see his ghoulish self in mirror  </li>
+<p align="right"><b>[</b><i>8<b>/</b>10</i><b>]</b></p>
+<h3>The Horror at Red Hook</h3>
+<li>    Detective investigates Sect composing mostly of imigrants and acidentaly sees Demonic Ritual to revive cults leader in catacombs with tall pilars </li>
+<p align="right"><b>[</b><i>6<b>/</b>10</i><b>]</b></p>
+<h3>The Colour Out of Space</h3>
+<li>    CRAZY </li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
 
 ---
 
-- Pickman’s Model
-- The Call of Cthulhu 
-- Cool Air The Shunned House 
-- The Silver Key 
-- The Dunwich Horror 
-- The Whisperer in Darkness 
-- The Strange High House in the Mist 
-- The Dreams in the Witch-House
-- From Beyond 
-- Through the Gates of the Silver Key (with E. Hoffmann Price)
-- At the Mountains of Madness 
-- The Shadow Over Innsmouth 
-- The Shadow Out of Time 
-- The Haunter of the Dark 
-- The Thing on the Doorstep 
-- The Case of Charles Dexter Ward
-- The Dream-Quest of Unknown Kadath 
-- To a Dreamer
+<h3>Pickman’s Model</h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>The Call of Cthulhu </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>Cool Air The Shunned House </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>The Silver Key </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>The Dunwich Horror </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>The Whisperer in Darkness </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>The Strange High House in the Mist </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>The Dreams in the Witch-House</h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>From Beyond </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>Through the Gates of the Silver Key (with E. Hoffmann Price)</h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>At the Mountains of Madness </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>The Shadow Over Innsmouth </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>The Shadow Out of Time </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>The Haunter of the Dark </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>The Thing on the Doorstep </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>The Case of Charles Dexter Ward</h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>The Dream-Quest of Unknown Kadath </h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
+<h3>To a Dreamer</h3>
+<li></li>
+<p align="right"><b>[</b><i>?<b>/</b>10</i><b>]</b></p>
 
+---
 ## World Building
-### Interesting Terms/Places/Races/Familes
-
 __Night Gaunts__ = faceless winged demons
 beings of __Ib__ = primitive space-fishmen
 land of __Mnar__ = vast land with river Ai and countries Thraa, Ilarnek, Kadatheron and city Sarnath  
