@@ -20,3 +20,13 @@
   
   ### My Rating: ?/10
 </div>
+
+# Wool < Hugh Howey > (EN)
+<div align="center">
+
+### [xx. 04. 2025 - dd. mm. yyyy]
+</div>
+<div align="right">
+  
+  ### My Rating: ?/10
+</div>
