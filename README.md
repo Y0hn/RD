@@ -24,9 +24,9 @@
 # Wool < Hugh Howey > (EN)
 <div align="center">
 
-### [xx. 04. 2025 - dd. mm. yyyy]
+### [xx. 04. 2025 - 08. 09. 2025]
 </div>
 <div align="right">
   
-  ### My Rating: ?/10
+  ### My Rating: 8/10
 </div>
